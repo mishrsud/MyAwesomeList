@@ -4,8 +4,16 @@
 
 **Table of Contents**
 
+- [DDD, CQRS and Event Sourcing](#ddd-cqrs-event-sourcing)
 - [MS SQL OR/Ms and Test Utilities](#mssql-orms-test-utils)
 - [Clean code, coding-conventions, code analyzers](#clean-code-analyzers)
+
+## DDD, CQRS and Event Sourcing
+
+### [Microsoft Patterns and Practices CQRS Journey](https://github.com/mishrsud/cqrs-journey)
+### [Download CQRS Journey books](https://www.microsoft.com/en-us/download/details.aspx?id=34774)
+### [Dino Esposito on DDD at Dotnext](https://www.youtube.com/watch?v=6hkXkz4aQzQ)
+### [Greg Young explains CQRS](http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/)
 
 ## MS SQL OR/Ms and Test Utilities
 

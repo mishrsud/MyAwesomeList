@@ -9,8 +9,10 @@
 
 ## MS SQL OR/Ms and Test Utilities
 
-### [andrewabest/Tailor](https://github.com/andrewabest/Tailor): A set of opinionated Query abstractions and accompanying Convention Tests to make sure your Dapper queries measure up!
+### [andrewabest/Tailor](https://github.com/andrewabest/Tailor)
+A set of opinionated Query abstractions and accompanying Convention Tests to make sure your Dapper queries measure up!
 
 ## Clean code, coding-conventions, code analyzers
 
-### [andrewabest/Conventional](https://github.com/andrewabest/Conventional): Ready-made tests for enforcing conventions within your types, assemblies, solutions and databases to make sure your duckies are all in a row
+### [andrewabest/Conventional](https://github.com/andrewabest/Conventional)
+Ready-made tests for enforcing conventions within your types, assemblies, solutions and databases to make sure your duckies are all in a row

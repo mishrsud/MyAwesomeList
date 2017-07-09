@@ -25,3 +25,7 @@ A set of opinionated Query abstractions and accompanying Convention Tests to mak
 
 - [andrewabest/Conventional](https://github.com/andrewabest/Conventional)
 Ready-made tests for enforcing conventions within your types, assemblies, solutions and databases to make sure your duckies are all in a row
+
+## Functional Programming
+
+- [Functional types using C# (magicmonty)](https://github.com/magicmonty/SharpFun)

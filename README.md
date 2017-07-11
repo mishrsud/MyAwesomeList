@@ -29,3 +29,7 @@ Ready-made tests for enforcing conventions within your types, assemblies, soluti
 ## Functional Programming
 
 - [Functional types using C# (magicmonty)](https://github.com/magicmonty/SharpFun)
+
+## Agile, Scrum, Lean and Practices
+
+- [Troy Magennis - Focused Objectives](https://github.com/FocusedObjective)
